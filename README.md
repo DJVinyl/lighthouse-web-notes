@@ -9,3 +9,11 @@ This repository contains all of the notes taken by [Mitchell](https://github.com
 
 
 [Information on Markdown Language](https://web.compass.lighthouselabs.ca/activities/757)
+
+## Table of Contents
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+
+1. Item One 
+2. Item Two
+3. Item Three
